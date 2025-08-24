@@ -8,19 +8,19 @@ const WORLD_FOUNDATIONS_DB = {
         title: "Memory is a Right",
         description: "You have signed the first contract: memory is an inalienable human right. In this city, the privacy of memory is strictly protected, and any unauthorized reading or modification is considered a felony. The atmosphere of the Exchange becomes solemn and dignified; every contract feels like a sacred ritual.",
         pawnshop_atmosphere: "The lights in the Exchange grow softer, and a solemnity fills the air. The memory jars on the walls are carefully polished, as if they were sacred relics.",
-        backgroundImageUrl: "/right.png"
+        backgroundImageUrl: "https://raw.githubusercontent.com/lass120625/memory/main/right.png"
     },
     resource: {
         title: "Memory is a Resource",
         description: "Your first contract has established the law: memory is a valuable resource to be traded, mined, and utilized. In this city, the memory market is booming. Everything from knowledge transfer to emotional experiences has a price. The Exchange now resembles a bustling stock market, full of opportunity and risk.",
         pawnshop_atmosphere: "A faint hum of data streams now echoes through the Exchange. The memory jars on the walls flicker with prices and data points, while a holographic market index slowly ticks in the air.",
-        backgroundImageUrl: "/resource.png"
+        backgroundImageUrl: "https://raw.githubusercontent.com/lass120625/memory/main/resource.png"
     },
     responsibility: {
         title: "Memory is a Responsibility",
         description: "With your quill, you've written the first rule: memory is a responsibility that must be shared by the individual and the collective. In this city, people are encouraged to share and preserve memories to learn from history. The historical archive has become the heart of the city. The Exchange's atmosphere is like that of an ancient library, heavy with the weight of history.",
         pawnshop_atmosphere: "The scent of old paper and leather now lingers in the Exchange. Beside each memory jar, a small brass plaque has appeared, engraved with the memory's origin and date.",
-        backgroundImageUrl: "/responsibility.png"
+        backgroundImageUrl: "https://raw.githubusercontent.com/lass120625/memory/main/responsibility.png"
     }
 };
 
